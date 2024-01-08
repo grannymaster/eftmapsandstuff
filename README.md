@@ -9,7 +9,8 @@
 
 #### Customs
 
-Normal map 
+Normal map [Click Here to open raw image](https://raw.githubusercontent.com/grannymaster/eftmaps/main/customs/Customs_Stashes.jpg?token=GHSAT0AAAAAACMSEZRUV67LU5OPW2WAGHPOZM4OYLA)
+
 
 ![App Screenshot](https://raw.githubusercontent.com/grannymaster/eftmaps/main/customs/Customs_Stashes.jpg?token=GHSAT0AAAAAACMSEZRUV67LU5OPW2WAGHPOZM4OYLA)
 
