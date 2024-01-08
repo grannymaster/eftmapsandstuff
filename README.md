@@ -14,10 +14,9 @@ Normal map [Click Here to open raw image](https://raw.githubusercontent.com/gran
 ![App Screenshot](https://raw.githubusercontent.com/grannymaster/eftmaps/main/customs/Customs-Map.jpg?token=GHSAT0AAAAAACMSEZRUY4S5NDMLWLDDGZDCZM4PBDA)
 
 
-Stashes [Click Here to open raw image](https://raw.githubusercontent.com/grannymaster/eftmaps/main/customs/Customs_Stashes.jpg?token=GHSAT0AAAAAACMSEZRUV67LU5OPW2WAGHPOZM4OYLA)
+Stashes [Click Here to open raw image](https://raw.githubusercontent.com/grannymaster/eftmaps/main/customs/Customs_Stashes.jpg?token=GHSAT0AAAAAACMSEZRVUUQUJ3YOBN4747H2ZM4PDRQ)
 
-![App Screenshot](https://raw.githubusercontent.com/grannymaster/eftmaps/main/customs/Customs_Stashes.jpg?token=GHSAT0AAAAAACMSEZRUV67LU5OPW2WAGHPOZM4OYLA)
-
+![App Screenshot](https://raw.githubusercontent.com/grannymaster/eftmaps/main/customs/Customs_Stashes.jpg?token=GHSAT0AAAAAACMSEZRVUUQUJ3YOBN4747H2ZM4PDRQ)
 
 Dorms
 
