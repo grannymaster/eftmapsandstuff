@@ -1,10 +1,6 @@
 # eftmaps
 
 
-# Tarkov maps that are not wonky
-
-
-
 ## 2D Maps
 
 #### Customs
