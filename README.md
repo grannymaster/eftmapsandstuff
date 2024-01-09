@@ -1,6 +1,13 @@
 # eftmaps
 #### !DISCLAIMER! I don't own any of these files or images. This repository was made to have all the maps I like in the same. All credits go to the original creators.
 -------------
+
+| Customs  | Factory  | Interchange  | Lighthouse  | Reserve   | Shoreline   | Woods   | Streets   | Ground Zero  |
+|---|---|---|---|---|---|---|---|---|
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+
+
 # Customs
 
 Normal map [Click Here to open raw image](https://i.imgur.com/GKEMRCX.jpeg)
