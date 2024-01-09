@@ -2,6 +2,8 @@
 #### !DISCLAIMER! I don't own any of these files or images. This repository was made to have all the maps I like in the same. All credits go to the original creators.
 -------------
 
+# CTRL + RIGHTCLICK THE HYPERLINKS FOR RAW IMAGES 
+
 | Customs  | Interchange  | Lighthouse  | Reserve  | Shoreline   | Streets   | Woods   | Factory   | Ground Zero  |
 |---|---|---|---|---|---|---|---|---|
 | [2D ](https://i.imgur.com/GKEMRCX.jpeg)  | [2D ](https://i.imgur.com/ywdvRJ0.jpeg)   | [2D](https://i.imgur.com/76wkAna.png)  | [2D](https://i.imgur.com/ypyEVUH.png)  | [2D](https://i.imgur.com/wcosxHI.png)  | [2D](https://.imgur.com/lRqT824.png)  | [2D](https://i.imgur.com/3dJX6Rx.jpeg)  | [2D](https://i.imgur.com/RyBkVmv.jpeg)  | [2D](https://i.imgur.com/SUuqNkU.jpeg)  |
@@ -9,7 +11,7 @@
 | [Dorms](https://i.imgur.com/vrUTtPd.jpeg)   |   |   |   |   |   |   |   |   |
 
 
-
+-------------
 
 # Customs
 
