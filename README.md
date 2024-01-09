@@ -5,7 +5,10 @@
 | Customs  | Factory  | Interchange  | Lighthouse  | Reserve   | Shoreline   | Woods   | Streets   | Ground Zero  |
 |---|---|---|---|---|---|---|---|---|
 | [2D Map](https://i.imgur.com/GKEMRCX.jpeg)  |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
+| [Stahes](https://i.imgur.com/BeIhbLu.jpeg)   |   |   |   |   |   |   |   |   |
+| [Dorms](https://i.imgur.com/vrUTtPd.jpeg)   |   |   |   |   |   |   |   |   |
+
+
 
 
 # Customs
