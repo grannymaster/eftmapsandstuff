@@ -5,7 +5,7 @@
 
 Normal map [Click Here to open raw image](https://i.imgur.com/GKEMRCX.jpeg)
 
-![App Screenshot](https://i.imgur.com/GKEMRCX.jpeg)
+![](https://i.imgur.com/GKEMRCX.jpeg)
 
 
 Stashes [Click Here to open raw image](https://i.imgur.com/BeIhbLu.jpeg)
