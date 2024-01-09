@@ -2,7 +2,7 @@
 #### !DISCLAIMER! I don't own any of these files or images. This repository was made to have all the maps I like in the same place. All credits go to the original creators.
 -------------
 
-# CTRL + RIGHTCLICK THE HYPERLINKS FOR RAW IMAGES 
+# CTRL + LEFTCLICK THE HYPERLINKS FOR RAW IMAGES 
 
 | Customs  | Interchange  | Lighthouse  | Reserve | Shoreline  | Streets   | Woods   | Factory   | Ground Zero  |
 |---|---|---|---|---|---|---|---|---|
