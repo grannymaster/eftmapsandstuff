@@ -2,10 +2,10 @@
 #### !DISCLAIMER! I don't own any of these files or images. This repository was made to have all the maps I like in the same. All credits go to the original creators.
 -------------
 
-| Customs  | Factory  | Interchange  | Lighthouse  | Reserve   | Shoreline   | Woods   | Streets   | Ground Zero  |
+| Customs  | Interchange  | Lighthouse  | Reserve  | Shoreline   | Streets   | Woods   | Factory   | Ground Zero  |
 |---|---|---|---|---|---|---|---|---|
-| [2D Map](https://i.imgur.com/GKEMRCX.jpeg)  |   |   |   |   |   |   |   |   |
-| [Stahes](https://i.imgur.com/BeIhbLu.jpeg)   |   |   |   |   |   |   |   |   |
+| [2D ](https://i.imgur.com/GKEMRCX.jpeg)  | [2D ](https://i.imgur.com/ywdvRJ0.jpeg)   | [2D](https://i.imgur.com/76wkAna.png)  | [2D](https://i.imgur.com/ypyEVUH.png)  |   |   |   |   |   |
+| [Stahes](https://i.imgur.com/BeIhbLu.jpeg)   | [Stashes](https://i.imgur.com/G0Sqm9Y.jpeg)   |   | [Underground](https://i.imgur.com/10cx2om.png)  |   |   |   |   |   |
 | [Dorms](https://i.imgur.com/vrUTtPd.jpeg)   |   |   |   |   |   |   |   |   |
 
 
