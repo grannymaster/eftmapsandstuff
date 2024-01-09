@@ -1,22 +1,20 @@
 # eftmaps
 
 
-## 2D Maps
-
 #### Customs
 
-Normal map [Click Here to open raw image](https://raw.githubusercontent.com/grannymaster/eftmaps/main/customs/Customs-Map.jpg?token=GHSAT0AAAAAACMSEZRUY4S5NDMLWLDDGZDCZM4PBDA)
+Normal map [Click Here to open raw image](https://i.imgur.com/GKEMRCX.jpeg)
 
-![App Screenshot](https://raw.githubusercontent.com/grannymaster/eftmaps/main/customs/Customs-Map.jpg?token=GHSAT0AAAAAACMSEZRUY4S5NDMLWLDDGZDCZM4PBDA)
+![App Screenshot](https://i.imgur.com/GKEMRCX.jpeg)
 
 
-Stashes [Click Here to open raw image](https://raw.githubusercontent.com/grannymaster/eftmaps/main/customs/Customs_Stashes.jpg?token=GHSAT0AAAAAACMSEZRVUUQUJ3YOBN4747H2ZM4PDRQ)
+Stashes [Click Here to open raw image](https://i.imgur.com/BeIhbLu.jpeg)
 
-![App Screenshot](https://raw.githubusercontent.com/grannymaster/eftmaps/main/customs/Customs_Stashes.jpg?token=GHSAT0AAAAAACMSEZRVUUQUJ3YOBN4747H2ZM4PDRQ)
+![App Screenshot](https://i.imgur.com/BeIhbLu.jpeg)
 
-Dorms
+Dorms [Click Here to open raw image](https://i.imgur.com/vrUTtPd.jpeg)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://i.imgur.com/vrUTtPd.jpeg)
 
 #### Woods
 
