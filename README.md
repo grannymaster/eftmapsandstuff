@@ -52,6 +52,38 @@ Resort map [Click Here to open raw image](https://i.imgur.com/HOWA0q0.png)
 
 ![](https://i.imgur.com/HOWA0q0.png)
 
+#### Streets of Tarkov
+
+Normal map [Click Here to open raw image](https://i.imgur.com/lRqT824.png)
+
+![](https://i.imgur.com/lRqT824.png)
+
+#### Woods
+
+Normal map [Click Here to open raw image](https://i.imgur.com/3dJX6Rx.jpeg)
+
+![](https://i.imgur.com/3dJX6Rx.jpeg)
+
+Stashes [Click Here to open raw image](https://i.imgur.com/gndnLyq.png)
+
+![](https://i.imgur.com/gndnLyq.png)
+
+#### Factory
+
+Normal map [Click Here to open raw image](https://i.imgur.com/RyBkVmv.jpeg)
+
+![](https://i.imgur.com/RyBkVmv.jpeg)
+
+3D map [Click Here to open raw image](https://i.imgur.com/iJBqZUk.jpeg)
+
+![](https://i.imgur.com/iJBqZUk.jpeg)
+
+#### Ground Zero
+
+Normal map [Click Here to open raw image](https://i.imgur.com/SUuqNkU.jpeg)
+
+![](https://i.imgur.com/SUuqNkU.jpeg)
+
 
 
 
