@@ -13,9 +13,6 @@
 
 -------------
 
-[test](https://i.postimg.cc/RhcpvG30/customs.jpg)
-
-
 # Customs
 
 2D map [Click Here to open raw image](https://i.imgur.com/GKEMRCX.jpeg)
