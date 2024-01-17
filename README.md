@@ -10,7 +10,10 @@
 | [Stashes](https://i.imgur.com/BeIhbLu.jpeg)   | [Stashes](https://i.imgur.com/G0Sqm9Y.jpeg)   |   | [Tunnels](https://i.imgur.com/10cx2om.png)  | [Resort Map](https://i.imgur.com/HOWA0q0.png)  |   | [Stashes](https://i.imgur.com/gndnLyq.png)    |  [3D](https://i.imgur.com/iJBqZUk.jpeg)  |   |
 | [Dorms](https://i.imgur.com/vrUTtPd.jpeg)   |   |   |   |   |   |   |   |   |
 
+-------------
+Headset stats
 
+![](https://i.imgur.com/ggKiLDB.png)
 -------------
 
 # Customs
